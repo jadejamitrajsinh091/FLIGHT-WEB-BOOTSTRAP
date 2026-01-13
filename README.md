@@ -16,7 +16,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contact](#contact)
 
 ---
 

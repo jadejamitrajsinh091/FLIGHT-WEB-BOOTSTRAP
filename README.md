@@ -50,7 +50,4 @@ The website includes:
 
 ---
 
-## Installation
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/jet-one.git
+
